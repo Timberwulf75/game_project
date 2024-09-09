@@ -11,15 +11,15 @@ More features will be added as I learn more about Bash scripting and IT developm
 ## How to Play
 1. Clone the repository:
 
-  `git clone https://github.com/Timberwulf75/game_project`
+  git clone https://github.com/Timberwulf75/game_project
 
 2. Navigate to the directory:
 
-  `cd game_project.sh`
+  cd game_project.sh
 
 3. Run the game:
 
-  `bash  game_project.sh`
+  bash  game_project.sh
 
 ## Features
 - Character Selection: Warrior, Prisoner, Wizard.
@@ -37,11 +37,11 @@ Feel free to contribute to this project by:
 1. Forking the repository
 2. Creating a new branch
  
- `git checkout -b feature-branch`
+ git checkout -b feature-branch
 
 3. Committing your changes
  
- `git commit -m "Add new feature"`
+ git commit -m "Add new feature"
 
 5. Opening a pull request
 
@@ -50,4 +50,4 @@ Feel free to contribute to this project by:
 
 License
 
-This project is licensed under the `https://github.com/Timberwulf75/game_project/blob/main/LICENSE`. See the LICENSE file for details.
+This project is licensed under the https://github.com/Timberwulf75/game_project/blob/main/LICENSE. See the LICENSE file for details.
