@@ -1,4 +1,9 @@
 # Game Project
+![License](https://img.shields.io/github/license/Timberwulf75/game_project?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/Timberwulf75/game_project?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Timberwulf75/game_project?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Timberwulf75/game_protect?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Timberwulf75/game_project?style=flat-square)
 
 Welcome to my game project! My name is William, I'm currently a student at HTB Academy, learning Bash scripting
 and IT concepts. This project is part of my learning journey, and I plan to continually enhance it as I 
